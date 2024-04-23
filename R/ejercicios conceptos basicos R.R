@@ -20,7 +20,7 @@ numero + 2*numero
 # una lista llamada informacion con el nombre y la edad de una persona.
 edades <- c(25,42,10)
 print(edades)
-informacion <- list("Javier",15)
+informacion <- list(nombre="Javier",edad=15)
 print(informacion)
 
 # Ejercicio 5: Funciones is.character e is.logical
